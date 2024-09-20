@@ -1,0 +1,9 @@
+/Users/rwhetsel/Building/Working/test2/FlexNetGX/flexnet-gx-web/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-b94d3762a5311c75.rmeta: /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/Users/rwhetsel/Building/Working/test2/FlexNetGX/flexnet-gx-web/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-b94d3762a5311c75.rlib: /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/Users/rwhetsel/Building/Working/test2/FlexNetGX/flexnet-gx-web/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-b94d3762a5311c75.d: /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs /Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs
+
+/Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/lib.rs:
+/Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/queue.rs:
+/Users/rwhetsel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.43/src/task/singlethread.rs:

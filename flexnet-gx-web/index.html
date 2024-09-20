@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>FlexNet GX Web</title>
+  </head>
+  <body>
+    <div id="app">Loading...</div>
+    <script type="module">
+      import init from './pkg/flexnet_gx_web.js';
+      init()
+        .then(() => console.log("WASM loaded successfully"))
+        .catch(err => console.error("Error loading WASM:", err));
+    </script>
+  </body>
+</html>
